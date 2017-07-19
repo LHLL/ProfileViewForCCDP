@@ -57,11 +57,19 @@
 				BA0D06CE1F1EFEE400EDCE8E /* AppDelegate.swift */,
 				BA0D06D01F1EFEE400EDCE8E /* ViewController.swift */,
 				BA0D06D21F1EFEE400EDCE8E /* Main.storyboard */,
+				BA0D06E01F1EFF0C00EDCE8E /* SupportingFile */,
+			);
+			path = EraseAnimation;
+			sourceTree = "<group>";
+		};
+		BA0D06E01F1EFF0C00EDCE8E /* SupportingFile */ = {
+			isa = PBXGroup;
+			children = (
 				BA0D06D51F1EFEE400EDCE8E /* Assets.xcassets */,
 				BA0D06D71F1EFEE400EDCE8E /* LaunchScreen.storyboard */,
 				BA0D06DA1F1EFEE400EDCE8E /* Info.plist */,
 			);
-			path = EraseAnimation;
+			name = SupportingFile;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
